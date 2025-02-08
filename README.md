@@ -35,6 +35,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ### 🐍 Contribution Graph Snake Game  
 
-![Snake animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/oggigachad/oggigachad/blob/output/github-contribution-grid-snake.svg)
+
 
 
