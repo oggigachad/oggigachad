@@ -1,7 +1,7 @@
 Hi, I'm Aakash Sarang!
 
 ### 💻 About Me
-- 🎓 2nd-year student at Jagran Lakecity University 
+- 🎓 3rd-year student at Jagran Lakecity University 
 - 🚀 Passionate about Web Dev & Competitive Coding
 - 🎯 Goal: 10 Lakh package 💰
 
