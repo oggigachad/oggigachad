@@ -68,14 +68,11 @@ me.say_hi()
 ### Database & Cloud
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -111,12 +108,6 @@ me.say_hi()
 
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=oggigachad&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -124,16 +115,6 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=oggigachad&custom_title=Aakash's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" width="100%">
-
-</div>
-
----
-
-## 🐍 Watch Snake Eat My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/oggigachad/oggigachad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 
 </div>
 
@@ -213,7 +194,7 @@ const goals2026 = {
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aakashsarang)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/aakashsarad)
 
 </div>
 
