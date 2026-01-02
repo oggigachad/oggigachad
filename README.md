@@ -68,11 +68,14 @@ me.say_hi()
 ### Database & Cloud
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -82,18 +85,30 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oggigachad&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oggigachad&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-  <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oggigachad&theme=tokyonight&hide_border=true" /> 
 </td>
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oggigachad&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
 </td>
 </tr>
 </table>
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oggigachad&theme=tokyonight)
+
 </div>
 
 <br>
