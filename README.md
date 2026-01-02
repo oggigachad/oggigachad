@@ -2,7 +2,9 @@
   
 # 👋 Hi, I'm Aakash Sarang!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Sportsman+%F0%9F%8F%83;Cooking+Enthusiast+%F0%9F%8D%B3;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -18,7 +20,8 @@ class AakashSarang:
         self.pronouns = "he/him"
         self.education = "3rd Year @ Jagran Lakecity University"
         self.goal = "10 Lakh Package 💰"
-        self.passion = ["Web Development", "Competitive Coding", "Problem Solving"]
+        self.passion = ["Web Development", "Cooking 🍳", "Running 🏃", "Problem Solving"]
+        self.hobbies = ["Sports", "Cooking", "Running", "Coding"]
         self.current_focus = "Building scalable web applications with Django & React"
         
     def say_hi(self):
@@ -28,10 +31,14 @@ me = AakashSarang()
 me.say_hi()
 ```
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 - 🎓 **Student** at Jagran Lakecity University (3rd Year)
 - 💼 **Aspiring Full Stack Developer** with a passion for building scalable applications
 - 🎯 **Career Goal:** Secure a 10 Lakh package through excellence in development
 - 🌱 **Currently Learning:** Advanced React patterns, Next.js, and Cloud Architecture
+- 🏃 **Sportsman:** Love running and staying active
+- 🍳 **Cooking Enthusiast:** Experimenting with recipes in my free time
 - 💡 **Challenge:** #100DaysOfCode focused on React & JavaScript
 - 🤝 **Open to:** Collaborations, Internships, and Open Source Contributions
 
@@ -68,66 +75,52 @@ me.say_hi()
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aakashsarang&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsarang&theme=radical&hide_border=true" alt="GitHub Streak" />
-
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashsarang&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsarang&theme=tokyonight&hide_border=true" /> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsarang&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
+</td>
+</tr>
+</table>
 </div>
 
+<br>
+
 <div align="center">
-  
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsarang&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=aakashsarang&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashsarang&custom_title=Aakash's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" width="100%">
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aakashsarang&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 🔥 Contribution Graph
+## 🐍 Watch Snake Eat My Contributions
 
 <div align="center">
 
-[![Aakash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aakashsarang&theme=tokyo-night&hide_border=true)](https://github.com/aakashsarang)
+<img src="https://raw.githubusercontent.com/aakashsarang/aakashsarang/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/aakashsarang/aakashsarang/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![EduNexus](https://github-readme-stats.vercel.app/api/pin/?username=aakashsarang&repo=edunexus&theme=radical&hide_border=true)](https://github.com/aakashsarang/edunexus)
-
-</div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ### 🎓 EduNexus - Student Management System
 > A comprehensive Django-based student registration system with QR attendance, alumni management, and degree progress tracking.
 
@@ -152,7 +145,7 @@ me.say_hi()
 - [ ] 💻 Complete 100 Days of Code challenge
 - [ ] 🚀 Contribute to 5+ open source projects
 - [ ] 📚 Master System Design & DSA
-- [ ] 🌟 Build a production-ready SaaS application
+- [ ] � Build a production-ready SaaS application
 - [ ] 🎓 Complete Cloud Computing certification
 
 ---
@@ -162,21 +155,49 @@ me.say_hi()
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```javascript
+const goals2026 = {
+  career: "🏆 Secure 10 Lakh package placement",
+  coding: "💻 Complete 100 Days of Code challenge",
+  openSource: "🚀 Contribute to 5+ open source projects",
+  learning: "📚 Master System Design & DSA",
+  project: "🌟 Build a production-ready SaaS application",
+  certification: "🎓 Complete Cloud Computing certification",
+  
+<a href="https://www.linkedin.com/in/aakash-sarang-38b681263/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:aakashsarang91@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://aakashsarang.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+</a>
+<a href="https://leetcode.com/aakashsarang91" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+</a>
 
 </div>
 
----
-
-## 📫 Let's Connect!
-
 <div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashsarang)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aakashsarang)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashsarang01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aakashsarang.github.io)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aakashsarang)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakashsarang)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+**Thanks for visiting!** 😊  
+*I love connecting with different people, so if you want to say hi, I'll be happy to meet you!* 🤝
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+
+⭐️ From [Aakash Sarang](https://github.com/oggigachad) with ❤️722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aakashsarang.github.io)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aakashsarang91)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oggigachad)
 
 </div>
 
