@@ -15,7 +15,7 @@
 ```python
 class AakashSarang:
     def __init__(self):
-        self.username = "aakashsarang"
+        self.username = "oggigachad"
         self.name = "Aakash Sarang"
         self.pronouns = "he/him"
         self.education = "3rd Year @ Jagran Lakecity University"
@@ -75,6 +75,11 @@ me.say_hi()
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📊 GitHub Statistics
@@ -83,12 +88,12 @@ me.say_hi()
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashsarang&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oggigachad&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
   <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsarang&theme=tokyonight&hide_border=true" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oggigachad&theme=tokyonight&hide_border=true" /> 
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsarang&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oggigachad&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
 </td>
 </tr>
 </table>
@@ -97,7 +102,7 @@ me.say_hi()
 <br>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aakashsarang&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=oggigachad&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -106,7 +111,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashsarang&custom_title=Aakash's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oggigachad&custom_title=Aakash's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" width="100%">
 
 </div>
 
@@ -116,16 +121,11 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aakashsarang/aakashsarang/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+<img src="https://raw.githubusercontent.com/oggigachad/oggigachad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-### 🎓 EduNexus - Student Management System
-> A comprehensive Django-based student registration system with QR attendance, alumni management, and degree progress tracking.
-
-**Tech Stack:** Django, Python, Bootstrap, Chart.js, SQLite  
-**Features:** Authentication, QR Scanning, Email Notifications, Analytics Dashboard
 
 ---
 
@@ -133,7 +133,7 @@ me.say_hi()
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=aakashsarang&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=oggigachad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -141,20 +141,6 @@ me.say_hi()
 
 ## 🎯 Current Goals (2026)
 
-- [ ] 🏆 Secure 10 Lakh package placement
-- [ ] 💻 Complete 100 Days of Code challenge
-- [ ] 🚀 Contribute to 5+ open source projects
-- [ ] 📚 Master System Design & DSA
-- [ ] � Build a production-ready SaaS application
-- [ ] 🎓 Complete Cloud Computing certification
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ```javascript
 const goals2026 = {
   career: "🏆 Secure 10 Lakh package placement",
@@ -163,17 +149,41 @@ const goals2026 = {
   learning: "📚 Master System Design & DSA",
   project: "🌟 Build a production-ready SaaS application",
   certification: "🎓 Complete Cloud Computing certification",
+  fitness: "🏃 Run my first half marathon",
+  cooking: "🍳 Master 50 new recipes"
+};
+```
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
   
 <a href="https://www.linkedin.com/in/aakash-sarang-38b681263/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://github.com/oggigachad" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 <a href="mailto:aakashsarang91@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://aakashsarang.github.io" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-</a>
-<a href="https://leetcode.com/aakashsarang91" target="_blank">
+<a href="https://leetcode.com/u/aakashsarang91" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
 </a>
 
@@ -182,22 +192,6 @@ const goals2026 = {
 <div align="center">
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-**Thanks for visiting!** 😊  
-*I love connecting with different people, so if you want to say hi, I'll be happy to meet you!* 🤝
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-
-⭐️ From [Aakash Sarang](https://github.com/oggigachad) with ❤️722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aakashsarang.github.io)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aakashsarang91)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oggigachad)
 
 </div>
 
@@ -215,11 +209,17 @@ const goals2026 = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 ### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 **Thanks for visiting!** 😊  
 *I love connecting with different people, so if you want to say hi, I'll be happy to meet you!* 🤝
 
-⭐️ From [Aakash Sarang](https://github.com/aakashsarang)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+
+⭐️ From [Aakash Sarang](https://github.com/oggigachad) with ❤️
 
 </div>
