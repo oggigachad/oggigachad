@@ -83,7 +83,7 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=oggigachad&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oggigachad)](https://git.io/streak-stats)
 
 </div>
 
