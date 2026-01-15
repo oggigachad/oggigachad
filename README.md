@@ -83,7 +83,8 @@ me.say_hi()
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=oggigachad&theme=algolia&margin-w=10)
+![Detailed Metrics](https://metrics.lecoq.io/oggigachad?template=classic&config.timezone=Asia/Calcutta)
+
 
 
 </div>
