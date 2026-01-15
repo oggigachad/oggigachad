@@ -92,7 +92,11 @@ me.say_hi()
 ---
 
 ## 📈 Contribution Graph
+<div>
+  ![trophy](https://github-profile-trophy.vercel.app/?username=oggigachad&theme=algolia&margin-w=10)
 
+</div>
+<br>
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=oggigachad&custom_title=Aakash's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" width="100%">
