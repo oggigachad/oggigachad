@@ -82,20 +82,6 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 
-<div align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oggigachad&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oggigachad&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
-</td>
-</tr>
-</table>
-</div>
-
-<br>
 
 <div align="center">
 
