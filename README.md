@@ -104,7 +104,7 @@ me.say_hi()
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oggigachad&theme=tokyonight)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oggigachad&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=oggigachad&show_icons=true&theme=transparent)
 
 </div>
 
