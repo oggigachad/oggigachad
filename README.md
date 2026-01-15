@@ -81,13 +81,6 @@ me.say_hi()
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-![Detailed Metrics](https://metrics.lecoq.io/oggigachad?template=classic&config.timezone=Asia/Calcutta)
-
-
-
-</div>
 
 <div align="center">
 <table align="center">
