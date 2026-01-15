@@ -83,7 +83,7 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oggigachad)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oggigachad&show_icons=true)
 
 </div>
 
