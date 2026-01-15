@@ -83,7 +83,8 @@ me.say_hi()
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oggigachad&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=oggigachad&show_icons=true)](https://skyline.github.com/oggigachad/
+)
 
 </div>
 
