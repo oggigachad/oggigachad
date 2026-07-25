@@ -37,7 +37,7 @@ me.say_hi()
 
 - <img width="16" src="https://img.icons8.com/ios-filled/16/2E9EF7/graduation-cap.png"/> **Education** — 3rd Year, B.Tech CSE at Jagran Lakecity University
 - <img width="16" src="https://img.icons8.com/ios-filled/16/2E9EF7/briefcase.png"/> **Currently** — Gen AI Intern at VIH Research Labs
-- <img width="16" src="https://img.icons8.com/ios-filled/16/2E9EF7/source-code.png"/> **Building** — full-stack apps with Django & React, plus applied GenAI tooling
+- <img width="16" src="https://img.icons8.com/ios-filled/16/2E9EF7/source-code.png"/> **Building** — full-stack apps with FastAPI & React, plus applied GenAI tooling
 - <img width="16" src="https://img.icons8.com/ios-filled/16/2E9EF7/goal.png"/> **Focus right now** — system design, Next.js, and a portfolio-ready SaaS project
 - <img width="16" src="https://img.icons8.com/ios-filled/16/2E9EF7/running.png"/> **Off-screen** — running and cooking, both good practice for patience with process
 - <img width="16" src="https://img.icons8.com/ios-filled/16/2E9EF7/handshake.png"/> **Open to** — internships, collaborations, and open-source work
